@@ -1,0 +1,1 @@
+C:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\.sonarqube\out\1

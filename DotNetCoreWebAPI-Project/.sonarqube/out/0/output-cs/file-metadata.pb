@@ -1,0 +1,10 @@
+p
+gC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Contracts\IShoppingCartService.csutf-8t
+kC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Controllers\ShoppingCartController.csutf-8d
+[C:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Model\ShoppingItem.csutf-8Y
+PC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Program.csutf-8o
+fC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Services\ShoppingCartServices.csutf-8Y
+PC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\Startup.csutf-8[
+PC:\Users\vilas\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8”
+ˆC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\obj\Debug\netcoreapp3.1\web-api.MvcApplicationPartsAssemblyInfo.csutf-8€
+uC:\Projects\DotNetCoreWebAPI-Project\DotNetCoreWebAPI-Project\web-api\obj\Debug\netcoreapp3.1\web-api.AssemblyInfo.csutf-8
