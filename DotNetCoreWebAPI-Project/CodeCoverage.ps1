@@ -15,7 +15,7 @@
     write-host 'CoverageReport Published'  -ForegroundColor Green
 
 
-dotnet C:\sonar-scanner-msbuild-core2.0\SonarScanner.MSBuild.dll begin /k:"DotNetCoreWebAPI-Project-2" `
+dotnet C:\sonar-scanner-msbuild-core2.0\SonarScanner.MSBuild.dll begin /k:"DotNetCoreWebAPI-Project" `
   /d:sonar.host.url="http://localhost:9000" `
   /d:sonar.cs.opencover.reportsPaths="./web-api-tests/TestResults/opencover.xml" `
   /d:sonar.cs.vscoveragexml.reportsPaths="./web-api-tests/TestResults/MyTestOutput.coveragexml" `
