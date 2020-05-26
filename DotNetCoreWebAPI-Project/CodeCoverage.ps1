@@ -1,5 +1,8 @@
 ﻿cd .\DotNetCoreWebAPI-Project
 
+pwd
+
+
 dotnet build .\web-api.sln
 
 dotnet test .\web-api.sln
