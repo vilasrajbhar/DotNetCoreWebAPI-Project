@@ -1,6 +1,6 @@
-projectKey=DotNetCoreWebAPI-Project-2
+projectKey=DotNetCoreWebAPI-Project
 serverUrl=http://localhost:9000
 serverVersion=8.3.1.34397
-dashboardUrl=http://localhost:9000/dashboard?id=DotNetCoreWebAPI-Project-2
-ceTaskId=AXJMlRL9tihVgx4Bjiyi
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXJMlRL9tihVgx4Bjiyi
+dashboardUrl=http://localhost:9000/dashboard?id=DotNetCoreWebAPI-Project
+ceTaskId=AXJQxfw4ot2PFZ2m9geR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXJQxfw4ot2PFZ2m9geR

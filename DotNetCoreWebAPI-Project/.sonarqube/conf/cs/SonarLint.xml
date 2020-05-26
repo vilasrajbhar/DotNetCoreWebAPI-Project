@@ -3,7 +3,7 @@
   <Settings>
     <Setting>
       <Key>sonar.cs.opencover.reportsPaths</Key>
-      <Value>opencover.xml</Value>
+      <Value>./web-api-tests/TestResults/opencover.xml</Value>
     </Setting>
     <Setting>
       <Key>sonar.cs.vscoveragexml.reportsPaths</Key>
