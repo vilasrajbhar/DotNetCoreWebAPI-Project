@@ -1,5 +1,7 @@
 ﻿cd .\DotNetCoreWebAPI-Project
 
+dotnet build .\web-api.sln
+
 dotnet test .\web-api.sln
 
 $recentCoverageFile = Get-ChildItem -File -Filter *.coverage -Path .\web-api-tests\TestResults -Name -Recurse | Select-Object -First 1;
@@ -22,9 +24,6 @@ dotnet C:\sonar-scanner-msbuild-core2.0\SonarScanner.MSBuild.dll begin /k:"DotNe
 /d:sonar.cs.opencover.reportsPaths="./web-api-tests/TestResults/opencover.xml" `
 /d:sonar.cs.vscoveragexml.reportsPaths="./web-api-tests/TestResults/MyTestOutput.coveragexml" `
 /d:sonar.coverage.exclusions="**/*Test.cs" 
-
-
-dotnet build .\web-api.sln
 
 
 dotnet C:\sonar-scanner-msbuild-core2.0\SonarScanner.MSBuild.dll end 
